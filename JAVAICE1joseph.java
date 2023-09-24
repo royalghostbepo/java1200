@@ -1,10 +1,10 @@
-public class WelcomeProgram {
+public class JAVAICE1joseph {
     public static void main(String[] args) {
         // Displaying a welcome message with name and banner id
         System.out.println("Welcome! My name is Joseph Bepo and my banner id is 100901775.");
 
         // Displaying a favorite quote with its source
-        System.out.println("One of my favorite quotes is: 'Your quote here' - Work hard and in silence...");
+        System.out.println("One of my favorite quotes is: 'Your quote here' - Work hard and in silence... (The Art of War by Sun Tzu )");
 
         // Asking the user for decimal numeric input
         System.out.print("Please enter a decimal numeric value: ");
