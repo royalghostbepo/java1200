@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class assignment1 {
-    public static void main(String[] args) {
+public class assignment1 {  // Open public class named same as the file name "assignment1"
+    public static void main(String[] args) {  
         // Create a Scanner object for user input
         Scanner scanner = new Scanner(System.in);
 
