@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 
 public class assignment1 {  // Open public class named same as the file name "assignment1"
